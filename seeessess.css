@@ -2,6 +2,9 @@
   font-family: "Comic Sans MS", "Monotype Corsiva", cursive;
   background-color: #ffff99;
 }
+body {
+  color: #000099;
+}
 table, th, td {
   border: 1px solid black;
 }
