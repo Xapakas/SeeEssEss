@@ -2,7 +2,7 @@
   font-family: "Comic Sans MS", "Monotype Corsiva", cursive;
   background-color: #ffff99;
 }
-th, td {
+tr,th {
   padding: 10 px 10 px 10 px 10 px;}
   border-top: 1 px solid Black
   border-bottom: 1 px solid Black
